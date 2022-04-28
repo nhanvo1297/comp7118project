@@ -1,4 +1,4 @@
-# comp7118project
+# COMP7118 CODE & Deliverables
 
 Project name: Movie Recommendation System<br>
 Methods used for the project: K-Means Clustering & Collaborative Filtering.<br>
@@ -20,7 +20,8 @@ Some python libraries need to be installed before running the program
 - sklearn.metrics
 - math
 
-Instruction to run the program
+Instruction to run the program:<br>
+
 0. Clone the repo
 1. Open Anaconda Navigator 
 2. Open Jupiter Note
