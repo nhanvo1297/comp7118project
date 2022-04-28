@@ -1,4 +1,4 @@
-# COMP7118 CODE & Deliverables
+# COMP7118 Code & Deliverables
 
 Project name: Movie Recommendation System<br>
 Methods used for the project: K-Means Clustering & Collaborative Filtering.<br>
